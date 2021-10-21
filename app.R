@@ -1,4 +1,4 @@
-setwd("~/Fall 2021/Stat 433/CensusApp")
+
 source("helpers.R")
 counties <- readRDS("data/counties.rds")
 library(maps)
